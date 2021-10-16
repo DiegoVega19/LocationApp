@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Listado</string>
+    <string name="title_notifications">Ubicacion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="p1">1.1 Pantalon Limpio y Planchado</string>
+    <string name="p2">1.2 Uñas (Limpias, Bien Cuidadas)</string>
+    <string name="p3">1.3 Cabello (Peinado)</string>
+    <string name="p4">1.4 Cubre Boca</string>
+    <string name="p5">1.5 Gorro</string>
+    <string name="p6">1.6 Saludo y Cortesia</string>
+    <string name="p7">1.7 Clientes Atendidos</string>
+    <string name="p8">1.8 Servicios Vendidos</string>
+    <string name="crea_una_nueva_evaluacion">Crea Una Nueva Evaluacion</string>
+    <string name="prefs">com.test</string>
+    <string-array name="locaciones">
+        <item>Pricesmart</item>
+        <item>Colonia Plaza Once</item>
+    </string-array>
+
+</resources>
